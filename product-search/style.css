@@ -1,0 +1,40 @@
+﻿.product.thumbnail
+{
+    width: 200px;
+    height: 470px;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+}
+
+.hidden
+{
+    display: none;
+}
+
+.progress
+{
+    width: 400px;
+    margin: 0 auto;
+}
+
+.loading
+{
+    min-height: 75px;
+    background: url('spinner.gif') no-repeat center;
+}
+
+#main-container
+{
+    width: 1000px;
+}
+
+#searchText
+{
+    width: 300px;
+}
+
+#searchForm
+{
+    padding-top: 25px;
+}

@@ -1,0 +1,3 @@
+# Chained Node
+1. Write a class called Node that has 3 properties: Value (int), Next (Node) and Random (Node).  The structure of this class is a "chained node".  The Next property can be null or point to the Next node and Random can be null or point to **any** other Node in the chain.
+2. Write a method that will make a deep code of a Node.  The copied Node Random properties should point to the eqivalent Node in the original Node.
