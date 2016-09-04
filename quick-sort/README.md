@@ -1,0 +1,1 @@
+![Quick Sort](https://cdn.kastatic.org/ka-cs-algorithms/qsort_recursion.png)
