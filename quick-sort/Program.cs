@@ -25,8 +25,7 @@ namespace QuickSort
                    less that or equal to the pivot and the right side containing values greater than the pivot.
                 3. Now, with each of the partitions, recursively do steps 1 and 2 above and store as
                    recursiveLeftPartition and recursiveRightPartition.
-                4. Finally, concatnate [recursiveLeftPartition, pivot, recursiveRightPartition] to get the Finally
-                   sorted list. 
+                4. Finally, concatenate [recursiveLeftPartition, pivot, recursiveRightPartition] to get the sorted list. 
             */
             
             if (numbers.Count() > 1)
